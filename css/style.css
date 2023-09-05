@@ -68,19 +68,23 @@ ol {
 }
 
 .section-one {
-    background-color: blue;
+    /* background-color: blue; */
+    background-image: url(/img/jumbo.png);
+    background-repeat: no-repeat;
     padding: 40px;
-
-}
-
-.section-one {
-    background-color: blue;
-    padding: 40px;
-
 }
 
 .section-one .row {
     justify-content: center;
+}
+
+.discription {
+    text-align: center;
+    color: white;
+}
+
+.discription > h1 , p{
+    padding: 20px;
 }
 
 

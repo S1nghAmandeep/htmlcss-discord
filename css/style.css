@@ -105,12 +105,13 @@ ol {
     padding: 10px 15px;
     border-radius: 25px;
     margin: 20px 80px 0px 0px ;
-
+    font-size: 14px;
 }
 
 .link-browser{
     text-decoration: none;
     text-align: center;
+    font-size: 14px;
     display: inline-block;
     background-color: rgb(35, 39, 42);
     padding: 10px 15px;
@@ -144,7 +145,7 @@ ol {
 }
 
 .discord-discription {
-    padding: 20px;
+    padding: 15px;
 }
 
 div.discord-discription > h1 {
@@ -156,7 +157,7 @@ div.discord-discription > h1 {
 
 .section-three {
     padding: 40px;
-    background-color: rgb(192, 192, 192);
+    background-color: rgb(246, 246, 246);
 }
 
 .row-reverse {
